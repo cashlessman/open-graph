@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState } from "react";
+import React from "react";
 
 export default function Demo(
   { title }: { title?: string } = { title: "Frames v2 Demo" }
